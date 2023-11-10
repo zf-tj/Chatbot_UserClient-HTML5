@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Card--fluid {
+  max-width: 500px;
+  min-width: 260px;
+  width: calc(100% - 68px);
+  line-height: 1.15;
+}
+.Navbar {
+  display: none;
+}
+.ListItem-content{
+  color: #4e72b8;
+}
+.SkillCard-title {
+  padding: 5px;
+  /* text-align: left; */
+}
+.CardTitle-title {
+  font-size: 14px;
+  /* margin-left: 6px; */
+  color: #4e72b8;
+}
+
